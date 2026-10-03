@@ -1,0 +1,6 @@
+{
+  "name": "ChemLab – Virtual Chemistry Lab",
+  "description": "Interactive virtual chemistry laboratory and experiment learning app for students with realistic simulations, step-by-step procedures, periodic table, reactions, and quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
